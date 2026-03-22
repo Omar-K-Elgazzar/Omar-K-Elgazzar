@@ -6,8 +6,8 @@ Hey there! My names Omar Elgazzar and Im a second year Mechatronics Engineer @UW
 ---
 
 ### Technical Skills
-Languages: C#, C/C++, Python, HTML/CSS, Javascript, Git, Small Basic
-Developer Tools: Docker, Git, VSCode, Eclipse, Jupyter Notebook, Jira, Cloudinary, MATLAB
+Languages: C#, C/C++, Python, HTML/CSS, Javascript, Git, Small Basic <br>
+Developer Tools: Docker, Git, VSCode, Eclipse, Jupyter Notebook, Jira, Cloudinary, MATLAB <br>
 Frameworks/Libraries: Arduino IDE, React, Next.js, Node.js, Tailwind, Angular, Express.js, MongoDB, Cloudinary, PyTorch, TensorFlow, scikit-learn, XGBoost, NumPy, Pandas, OpenCV, ROS2
 
 --- 
