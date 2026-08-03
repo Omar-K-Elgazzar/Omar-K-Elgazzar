@@ -12,7 +12,6 @@ Frameworks/Libraries: Arduino IDE, React, Next.js, Node.js, Tailwind, Angular, E
 
 --- 
 ### Languages & Tools
-### Languages & Tools
 
 <p align="left">
   <img alt="C#" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
